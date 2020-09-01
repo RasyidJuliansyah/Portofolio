@@ -1,2 +1,2 @@
 # Portofolio
-I provided with a design project as a PDF-file
+I provided Portfolio of design projects as a PDF-file
